@@ -67,7 +67,8 @@
     "optimist": "~0.3.4",
     "async": "~0.2.7",
     "sprintf-js": "0.0.7",
-    "request": "~2.34.0"
+    "request": "~2.34.0",
+    "mime": "~1.2.11"
   },
   "devDependencies": {
     "mocha": "~1.7.4",
